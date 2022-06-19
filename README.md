@@ -81,8 +81,9 @@
 - https://web.randi.org/about1.html
 -
 - https://github.com/junegunn/vim-plug
-- https://github.com/morhetz/gruvbox
+- https://github.com/arcticicestudio/nord-vim
 - https://github.com/altercation/vim-colors-solarized
+- https://github.com/morhetz/gruvbox
 - https://github.com/nanotech/jellybeans.vim
 - https://github.com/tomasr/molokai
 - https://github.com/nvim-treesitter/nvim-treesitter

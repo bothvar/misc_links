@@ -36,6 +36,7 @@
 - https://old.reddit.com/r/linux/
 - https://old.reddit.com/r/thinkpad/
 - https://old.reddit.com/r/programming/
+- https://old.reddit.com/r/AlpineLinux/
 - https://old.reddit.com/r/bodyweightfitness/
 - https://old.reddit.com/r/privacy/
 - 

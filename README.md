@@ -79,3 +79,12 @@
 - https://www.carlsagan.com/
 - http://www.richardfeynman.com/
 - https://web.randi.org/about1.html
+
+- https://github.com/junegunn/vim-plug
+- https://github.com/morhetz/gruvbox
+- https://github.com/altercation/vim-colors-solarized
+- https://github.com/nanotech/jellybeans.vim
+- https://github.com/tomasr/molokai
+- https://github.com/nvim-treesitter/nvim-treesitter
+- https://github.com/luochen1990/rainbow
+- https://github.com/preservim/nerdtree

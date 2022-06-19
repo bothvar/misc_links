@@ -59,6 +59,10 @@
 - https://without-systemd.org/wiki/index_php/Arguments_against_systemd/
 - https://www.linkedin.com/pulse/why-we-need-move-from-oop-hadid-ali
 - https://idlewords.com/talks/website_obesity.htm
+-
+- https://alpinelinux.org/
+- https://voidlinux.org/
+- https://www.devuan.org/
 - 
 - https://www.coreboot.org/
 - https://osboot.org/

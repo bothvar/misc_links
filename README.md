@@ -1,7 +1,6 @@
 - https://stackoverflow.com/
 - https://github.com/
 - https://archive.org/
-- https://libgen.rs/
 - https://news.ycombinator.com/
 - https://old.reddit.com/
 - https://handmade.network/
@@ -14,6 +13,7 @@
 - https://duckduckgo.com/
 - https://www.skepdic.com/
 - https://www.khanacademy.org/
+- https://libgen.rs/ (warning: piracy)
 - https://www.edx.org/
 - https://www.edx.org/schools-partners
 - https://ocw.mit.edu/

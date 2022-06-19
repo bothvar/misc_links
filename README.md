@@ -89,3 +89,6 @@
 - https://github.com/nvim-treesitter/nvim-treesitter
 - https://github.com/luochen1990/rainbow
 - https://github.com/preservim/nerdtree
+-
+- https://fonts.google.com/specimen/Source+Code+Pro#type-tester
+- https://fonts.google.com/specimen/IBM+Plex+Mono#type-tester

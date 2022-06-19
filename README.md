@@ -41,6 +41,7 @@
 - 
 - https://libera.chat/
 - https://www.oftc.net/
+- https://netsplit.de/channels/
 - https://discord.com/invite/tccpp
 - https://discord.gg/KydfXPfpYK
 - https://discord.gg/progdisc

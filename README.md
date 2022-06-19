@@ -79,7 +79,7 @@
 - https://www.carlsagan.com/
 - http://www.richardfeynman.com/
 - https://web.randi.org/about1.html
-
+-
 - https://github.com/junegunn/vim-plug
 - https://github.com/morhetz/gruvbox
 - https://github.com/altercation/vim-colors-solarized

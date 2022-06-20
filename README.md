@@ -61,6 +61,7 @@
 - https://without-systemd.org/wiki/index_php/Arguments_against_systemd/
 - https://www.linkedin.com/pulse/why-we-need-move-from-oop-hadid-ali
 - https://idlewords.com/talks/website_obesity.htm
+- https://blog.sanctum.geek.nz/series/unix-as-ide/
 -
 - https://alpinelinux.org/
 - https://voidlinux.org/

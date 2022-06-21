@@ -95,3 +95,5 @@
 - https://fonts.google.com/specimen/IBM+Plex+Mono#type-tester
 -
 - https://www.youtube.com/user/Computerphile
+-
+- https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/

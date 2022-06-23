@@ -65,6 +65,7 @@
 - https://blog.sanctum.geek.nz/series/unix-as-ide/
 -
 - https://alpinelinux.org/
+- https://www.openbsd.org/
 - https://voidlinux.org/
 - https://www.devuan.org/
 - 

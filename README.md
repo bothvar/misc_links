@@ -49,6 +49,7 @@
 - https://discord.gg/pVzCgv2
 - https://diasporafoundation.org/
 - https://getaether.net/
+- https://joinmastodon.org/
 - 
 - https://handmade.network/manifesto
 - https://suckless.org/philosophy/

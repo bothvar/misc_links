@@ -63,6 +63,7 @@
 - https://www.linkedin.com/pulse/why-we-need-move-from-oop-hadid-ali
 - https://idlewords.com/talks/website_obesity.htm
 - https://blog.sanctum.geek.nz/series/unix-as-ide/
+- https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html
 -
 - https://alpinelinux.org/
 - https://www.openbsd.org/

@@ -31,6 +31,7 @@
 - https://git-scm.com/docs/gittutorial
 - https://nullprogram.com/blog/2017/08/20/
 - https://makefiletutorial.com/
+- https://suckless.org/hacking/
 - 
 - https://old.reddit.com/r/unixporn/
 - https://old.reddit.com/r/C_Programming

@@ -22,6 +22,7 @@
 - https://pll.harvard.edu/catalog/free
 - https://online.stanford.edu/free-courses
 - https://www.openculture.com/
+- https://owasp.org/www-community/
 - 
 - https://github.com/bothvar/programming_books
 - https://www.edx.org/cs50

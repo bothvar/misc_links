@@ -1,6 +1,7 @@
 - https://en.wikipedia.org/wiki/Hacker_ethic (read the section "The hacker ethics")
 - https://stackoverflow.com/
 - https://superuser.com/
+- https://stackexchange.com/
 - https://github.com/
 - https://archive.org/
 - https://news.ycombinator.com/
@@ -57,6 +58,7 @@
 - 
 - https://handmade.network/manifesto
 - https://suckless.org/philosophy/
+- https://www.openbsd.org/innovations.html
 - https://www.fsf.org/about/
 - https://sta.li/faq/
 - https://harmful.cat-v.org/software/dynamic-linking/

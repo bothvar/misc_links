@@ -13,6 +13,7 @@
 - https://www.duolingo.com/
 - https://proton.me/
 - https://protonvpn.com/
+- https://www.startpage.com/
 - https://duckduckgo.com/
 - https://www.skepdic.com/
 - https://www.khanacademy.org/
@@ -25,6 +26,7 @@
 - https://online.stanford.edu/free-courses
 - https://www.openculture.com/
 - https://owasp.org/www-community/
+- https://ipleak.net/
 - 
 - https://github.com/bothvar/programming_books
 - https://www.edx.org/cs50

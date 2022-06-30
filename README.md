@@ -1,5 +1,6 @@
 - https://en.wikipedia.org/wiki/Hacker_ethic (read the section "The hacker ethics")
 - https://stackoverflow.com/
+- https://superuser.com/
 - https://github.com/
 - https://archive.org/
 - https://news.ycombinator.com/
